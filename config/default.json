@@ -1,0 +1,25 @@
+{
+  "config_name": "Default",
+  "ai_provider": "aihubmix",
+  "model": "gpt-4o-mini",
+  "user_language": "English",
+  "text_language": "auto",
+  "background": "",
+  "article_requirements": "Professional and objective",
+  "seo_keywords": [],
+  "default_word_count": 800,
+  "output_folder": "output_text",
+  "image_source": "pexels",
+  "image_count": 2,
+  "image_model": "gemini-3.1-flash-image-preview",
+  "publish_to_wp": true,
+  "save_html_locally": true,
+  "template_name": "default",
+  "template_settings": {
+    "enabled": false,
+    "components": {}
+  },
+  "wp_site_url": "",
+  "wp_username": "",
+  "wp_password": ""
+}

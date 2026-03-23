@@ -1,0 +1,74 @@
+{
+  "elements": {
+    "h1": {
+      "tag": "h1",
+      "class": "text-4xl font-bold mb-6"
+    },
+    "h2": {
+      "tag": "h2",
+      "class": "text-3xl font-bold mb-4"
+    },
+    "h3": {
+      "tag": "h3",
+      "class": "text-2xl font-semibold mb-3"
+    },
+    "h4": {
+      "tag": "h4",
+      "class": "text-xl font-semibold mb-2"
+    },
+    "h5": {
+      "tag": "h5",
+      "class": "text-lg font-medium mb-2"
+    },
+    "h6": {
+      "tag": "h6",
+      "class": "text-base font-medium mb-2"
+    },
+    "p": {
+      "tag": "p",
+      "class": "mb-4 leading-relaxed"
+    },
+    "img": {
+      "tag": "img",
+      "class": "rounded-lg shadow-md mx-auto",
+      "attributes": {
+        "loading": "lazy"
+      }
+    },
+    "code": {
+      "tag": "code",
+      "class": "bg-gray-100 px-2 py-1 rounded text-sm font-mono"
+    },
+    "blockquote": {
+      "tag": "blockquote",
+      "class": "border-l-4 border-blue-500 pl-4 italic my-4"
+    },
+    "ul": {
+      "tag": "ul",
+      "class": "list-disc pl-6 mb-4"
+    },
+    "ol": {
+      "tag": "ol",
+      "class": "list-decimal pl-6 mb-4"
+    },
+    "li": {
+      "tag": "li",
+      "class": "mb-2"
+    },
+    "table": {
+      "tag": "table",
+      "class": "w-full border-collapse my-4"
+    },
+    "pre": {
+      "tag": "pre",
+      "class": "bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto"
+    },
+    "a": {
+      "tag": "a",
+      "class": "text-blue-500 hover:text-blue-700 underline"
+    }
+  },
+  "div": {
+    "class": "max-w-4xl mx-auto p-6 bg-white shadow-md rounded-lg"
+  }
+}
